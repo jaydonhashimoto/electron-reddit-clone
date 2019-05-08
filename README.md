@@ -1,1 +1,1 @@
-This project follows along a tutorial found [here](https://www.youtube.com/watch?v=zq-XcnjLpXI)
+This project follows along a tutorial found [here](https://www.youtube.com/watch?v=zq-XcnjLpXI) and referenced [this](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3) as well.
